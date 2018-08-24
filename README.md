@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gkhays/notebooks/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gkhays/notebooks/master) (use this badge to launch the notebooks interactively)
 
 # notebooks
 Jupyter notebooks
