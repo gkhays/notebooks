@@ -1,7 +1,12 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gkhays/notebooks/master) (use this badge to launch the notebooks interactively)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gkhays/notebooks/master)
 
 # notebooks
 Jupyter notebooks
+
+## binder
+Clicking the `launch binder` badge, above, will allow you to interact with the notebooks. Of course it is always an option to click on the notebook and GitHub will statically render it. Here is what the binder looks like.
+
+![binder](images/binder.png)
 
 ## License
 (c) 2018 Garve Hays
