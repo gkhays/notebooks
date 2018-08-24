@@ -37,6 +37,8 @@ Executing the command: jupyter notebook
 [I 20:42:25.153 NotebookApp] 302 GET /tree? (172.17.0.1) 1.08ms
 ```
 
+I used the [datascience-notebook](https://hub.docker.com/r/jupyter/datascience-notebook/) from the [Jupyter Docker Science Stack](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html).
+
 ## License
 (c) 2018 Garve Hays
 
