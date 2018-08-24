@@ -1,0 +1,9 @@
+nbserver:
+  container_name: datascience
+  image: jupyter/datascience-notebook
+  ports:
+    - "10000:8888"
+  volumes:
+    - .:/home/jovyan/work
+  environment:
+    JUPYTER_LAB_ENABLE: "yes"
