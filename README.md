@@ -5,4 +5,5 @@ Jupyter notebooks
 
 ## License
 (c) 2018 Garve Hays
-Licensed under the [MIT License](https://opensource.org/licenses/MIT); see [LICENSE](https://github.com/gkhays/notebooks/blob/master/LICENSE).
+
+Released under the [MIT License](https://opensource.org/licenses/MIT); see [LICENSE](https://github.com/gkhays/notebooks/blob/master/LICENSE).
