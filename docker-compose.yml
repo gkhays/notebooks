@@ -3,6 +3,9 @@ nbserver:
   image: jupyter/datascience-notebook
   ports:
     - "10000:8888"
+  # ${PWD} will work in both Linux and PowerShell
+  # %cd% will work on Windows
+  # . should work everywhere
   volumes:
     - .:/home/jovyan/work
   environment:
