@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gkhays/notebooks/master)
 
 # notebooks
-Jupyter notebooks
+A collection of Jupyter notebooks.
 
 ## binder
 Clicking the `launch binder` badge, above, will allow you to interact with the notebooks. Of course it is always an option to click on the notebook and GitHub will statically render it. Here is what the binder looks like.
