@@ -39,6 +39,10 @@ Executing the command: jupyter notebook
 
 I used the [datascience-notebook](https://hub.docker.com/r/jupyter/datascience-notebook/) from the [Jupyter Docker Science Stack](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html).
 
+Note: This image presents a `work` folder as a top-level directory, so navigating into it will take you to the available notebooks. E.g.
+
+![Work Folder](images/work-folder.png)
+
 ## License
 (c) 2018 Garve Hays
 
